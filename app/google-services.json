@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635932837909",
+    "firebase_url": "https://balajisosfaindirect.firebaseio.com",
+    "project_id": "balajisosfaindirect",
+    "storage_bucket": "balajisosfaindirect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635932837909:android:1c37e43634803f3e",
+        "android_client_info": {
+          "package_name": "project.astix.com.balajisosfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635932837909-ckp9bjv93hpm5g265g5uui27a4bsac3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIL7S9zd28Aj3_QKwV_gHdslbFW3oYVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
